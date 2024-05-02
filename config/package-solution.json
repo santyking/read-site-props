@@ -1,0 +1,40 @@
+{
+  "$schema": "https://developer.microsoft.com/json-schemas/spfx-build/package-solution.schema.json",
+  "solution": {
+    "name": "read-site-props-client-side-solution",
+    "id": "124dfcd9-7c25-4cc3-a297-58ee7e604cc6",
+    "version": "1.0.0.0",
+    "includeClientSideAssets": true,
+    "skipFeatureDeployment": true,
+    "isDomainIsolated": false,
+    "developer": {
+      "name": "",
+      "websiteUrl": "",
+      "privacyUrl": "",
+      "termsOfUseUrl": "",
+      "mpnId": "Undefined-1.18.2"
+    },
+    "metadata": {
+      "shortDescription": {
+        "default": "read-site-props description"
+      },
+      "longDescription": {
+        "default": "read-site-props description"
+      },
+      "screenshotPaths": [],
+      "videoUrl": "",
+      "categories": []
+    },
+    "features": [
+      {
+        "title": "read-site-props Feature",
+        "description": "The feature that activates elements of the read-site-props solution.",
+        "id": "a0c6758f-7cfa-48aa-a184-304707e47529",
+        "version": "1.0.0.0"
+      }
+    ]
+  },
+  "paths": {
+    "zippedPackage": "solution/read-site-props.sppkg"
+  }
+}
